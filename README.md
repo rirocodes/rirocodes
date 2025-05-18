@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=rirocodes&theme=dark-minimalist&mode=weekly&card_width=510)](https://git.io/streak-stats)
 
-### Reach out @
+### Reach out
 - Email : noorrida.work@gmail.com
 - Connect : [LinkedIn]([https://www.linkedin.com/in/noor-rida-0ba8771a6/](https://www.linkedin.com/in/noor-rida/))
 - Visit my [portfolio](https://noor-rida.vercel.app/)
