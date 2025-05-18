@@ -31,11 +31,4 @@ Here are some ideas to get you started:
 ### My GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=rirocodes&theme=shadow-red&mode=weekly&card_width=510)](https://git.io/streak-stats)
 
-
-
-![rirocodes's Stats](https://github-readme-stats.vercel.app/api?name=rida&theme=dracula&show_icons=true&hide_border=false&count_private=true)
-
-![rirocodes's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rirocodes&theme=dracula&hide_border=false)
-
-
-![rirocodes's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rirocodes&theme=dracula&show_icons=true&hide_border=false&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rirocodes&theme=dark-minimalist&mode=weekly&card_width=510)](https://git.io/streak-stats)
