@@ -34,6 +34,11 @@ Here are some ideas to get you started:
 ![rirocodes's Stats](https://github-readme-stats.vercel.app/api?username=rirocodes&theme=dracula&show_icons=true&hide_border=false&count_private=true)
 
 
+![rirocodes's Stats](https://github-readme-stats.vercel.app/api?username=loralridz&theme=dracula&show_icons=true&hide_border=false&count_private=true)
+
+
+
+![rirocodes's Stats](https://github-readme-stats.vercel.app/api?name=rida&theme=dracula&show_icons=true&hide_border=false&count_private=true)
 
 ![rirocodes's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rirocodes&theme=dracula&hide_border=false)
 
