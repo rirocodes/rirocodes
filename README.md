@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **rirocodes/rirocodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +15,7 @@ Here are some ideas to get you started:
 -->
 
 ## Hi, I'm Rida.
+
 - I'm a Full-stack developer and a full-time Software Engineer.
 - I like challenges and learning new things.
 - Other than coding, I bake, journal, and read for fun.
@@ -24,10 +24,15 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=rirocodes&theme=dark-minimalist&mode=weekly&card_width=510)](https://git.io/streak-stats)
 
+### Reach out @
+- Email : noorrida.work@gmail.com
+- Connect : [LinkedIn]([https://www.linkedin.com/in/noor-rida-0ba8771a6/](https://www.linkedin.com/in/noor-rida/))
+- Visit my [portfolio](https://noor-rida.vercel.app/)
+<!--
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/loral" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.threads.net/@riro" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /> </picture> </a></p>
-
+-->
 
 ### Skills
 
