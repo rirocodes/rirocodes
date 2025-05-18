@@ -28,13 +28,8 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://www.github.com/loral" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.threads.net/@riro" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-![rirocodes's Stats](https://github-readme-stats.vercel.app/api?username=rirocodes&theme=dracula&show_icons=true&hide_border=false&count_private=true)
-
-
-![rirocodes's Stats](https://github-readme-stats.vercel.app/api?username=loralridz&theme=dracula&show_icons=true&hide_border=false&count_private=true)
+### My GitHub Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=rirocodes&theme=shadow-red&mode=weekly&card_width=510)](https://git.io/streak-stats)
 
 
 
